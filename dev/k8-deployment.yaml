@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: benjaminsh/my-app:latest
+        image: benjaminsh/my-app:v2
         ports:
         - containerPort: 80
